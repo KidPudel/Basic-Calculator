@@ -1,0 +1,4 @@
+#Fri Nov 11 00:02:48 MSK 2022
+base.0=/home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

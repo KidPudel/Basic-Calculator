@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] /home/iggy/.gradle/caches/transforms-3/780aeaa014d3bd9052da413bcca2374f/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/iggy/.gradle/caches/transforms-3/f529a3c1835626e0a621aea60b7b6394/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /home/iggy/.gradle/caches/transforms-3/bdc88c37bebbd3844f779c2810bc9288/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /home/iggy/.gradle/caches/transforms-3/b16d0a5d417f11bd4b0c66ebdae1cc4b/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/iggy/.gradle/caches/transforms-3/b876366cd2783f44848027e7604c7ff7/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/iggy/.gradle/caches/transforms-3/f83bb83d6e5435bf270620f74a354941/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/iggy/.gradle/caches/transforms-3/375c1f9b38d5a2567586926b92d580fb/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iggy/.gradle/caches/transforms-3/a854590fa79560a362513b42838d7001/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iggy/.gradle/caches/transforms-3/d090c489a156daa859c494022184231a/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/iggy/.gradle/caches/transforms-3/89c1326c6b42ba1f372c4655c7bd4944/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/iggy/.gradle/caches/transforms-3/98992aeabd6c14de964482a5f79a21b5/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iggy/.gradle/caches/transforms-3/93b3a36a549f52049200c29f5fd81e87/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iggy/.gradle/caches/transforms-3/d1c756003d9c554345eb991d19cea0ab/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/iggy/.gradle/caches/transforms-3/b1f2950aac55c0da1d639cd60e8afa30/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/iggy/.gradle/caches/transforms-3/3d26ea210452c49711f6a24a7ba431ae/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iggy/.gradle/caches/transforms-3/bfeb3c2159feafbbf5895ff0318c80e1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iggy/.gradle/caches/transforms-3/a74b583bd50d24c0b7e71dd418820f1a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iggy/.gradle/caches/transforms-3/3fb5e9c91f17e356a7e9036ca82be727/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iggy/.gradle/caches/transforms-3/74b1342c816d109b13faa1a17ffbadd2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/iggy/.gradle/caches/transforms-3/61c30ef7b7b56e2d962bfa67d121d22f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iggy/.gradle/caches/transforms-3/622d2b2c011ecb1a943707b2acc82189/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/iggy/.gradle/caches/transforms-3/0d7145b7056a46f57726674d53a076ba/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /home/iggy/.gradle/caches/transforms-3/72077aae75911d5ad9f6e93cbbe31b36/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iggy/.gradle/caches/transforms-3/8188636c73cbe3dd663de27f947a19c2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/iggy/.gradle/caches/transforms-3/0d7acd9831ed10a9c5d79096fc912c2e/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iggy/.gradle/caches/transforms-3/2d22a682021d527252deae84ca6e94a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/iggy/.gradle/caches/transforms-3/a57f868ea5d314524462f44fb9ae8ad7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/iggy/.gradle/caches/transforms-3/52d2f82b12a9f7d76135460d49dfb9b0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/iggy/.gradle/caches/transforms-3/0b4266c8852cbfc2b6320958e08983b7/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/iggy/.gradle/caches/transforms-3/7102ba1dd1cca755a9dba9e1ad1016e6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iggy/.gradle/caches/transforms-3/e88f4686476d0aa8b174ec483bc1d4ae/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iggy/.gradle/caches/transforms-3/8d55c4452c9438f53c609b2425a0e595/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iggy/.gradle/caches/transforms-3/a74cfc1a5f299df9476381af85d9d698/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iggy/.gradle/caches/transforms-3/119be4f1714b3cf4e131b7fde334bf81/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iggy/.gradle/caches/transforms-3/01c87f905a8c778d5467e0bb49c5654f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iggy/.gradle/caches/transforms-3/dca5a3b90f7e3237ba168dbcfdf15bfa/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iggy/.gradle/caches/transforms-3/4ab93aaf8764da593225c2ed11ffebba/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iggy/.gradle/caches/transforms-3/296268894ff5068fe4c70d7cd5b312d2/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iggy/.gradle/caches/transforms-3/06869fb9abfab749f2472c0b1e6d18eb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/iggy/.gradle/caches/transforms-3/9af1f54e1267ba8149e4a10085f1e4fe/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iggy/.gradle/caches/transforms-3/5a710c85cc355a837190efa17b7d1fc1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:5:3-19:17
+MERGED from [com.google.android.material:material:1.4.0] /home/iggy/.gradle/caches/transforms-3/b16d0a5d417f11bd4b0c66ebdae1cc4b/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/iggy/.gradle/caches/transforms-3/b16d0a5d417f11bd4b0c66ebdae1cc4b/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/iggy/.gradle/caches/transforms-3/b876366cd2783f44848027e7604c7ff7/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/iggy/.gradle/caches/transforms-3/b876366cd2783f44848027e7604c7ff7/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] /home/iggy/.gradle/caches/transforms-3/72077aae75911d5ad9f6e93cbbe31b36/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/iggy/.gradle/caches/transforms-3/72077aae75911d5ad9f6e93cbbe31b36/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iggy/.gradle/caches/transforms-3/8d55c4452c9438f53c609b2425a0e595/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iggy/.gradle/caches/transforms-3/8d55c4452c9438f53c609b2425a0e595/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/iggy/.gradle/caches/transforms-3/72077aae75911d5ad9f6e93cbbe31b36/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:11:7-38
+activity#org.hyperskill.calculator.MainActivity
+ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:12:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.2] /home/iggy/.gradle/caches/transforms-3/780aeaa014d3bd9052da413bcca2374f/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] /home/iggy/.gradle/caches/transforms-3/780aeaa014d3bd9052da413bcca2374f/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/iggy/.gradle/caches/transforms-3/f529a3c1835626e0a621aea60b7b6394/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/iggy/.gradle/caches/transforms-3/f529a3c1835626e0a621aea60b7b6394/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/iggy/.gradle/caches/transforms-3/bdc88c37bebbd3844f779c2810bc9288/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/iggy/.gradle/caches/transforms-3/bdc88c37bebbd3844f779c2810bc9288/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /home/iggy/.gradle/caches/transforms-3/b16d0a5d417f11bd4b0c66ebdae1cc4b/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/iggy/.gradle/caches/transforms-3/b16d0a5d417f11bd4b0c66ebdae1cc4b/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/iggy/.gradle/caches/transforms-3/b876366cd2783f44848027e7604c7ff7/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/iggy/.gradle/caches/transforms-3/b876366cd2783f44848027e7604c7ff7/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/iggy/.gradle/caches/transforms-3/f83bb83d6e5435bf270620f74a354941/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/iggy/.gradle/caches/transforms-3/f83bb83d6e5435bf270620f74a354941/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/iggy/.gradle/caches/transforms-3/375c1f9b38d5a2567586926b92d580fb/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/iggy/.gradle/caches/transforms-3/375c1f9b38d5a2567586926b92d580fb/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iggy/.gradle/caches/transforms-3/a854590fa79560a362513b42838d7001/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iggy/.gradle/caches/transforms-3/a854590fa79560a362513b42838d7001/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iggy/.gradle/caches/transforms-3/d090c489a156daa859c494022184231a/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iggy/.gradle/caches/transforms-3/d090c489a156daa859c494022184231a/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/iggy/.gradle/caches/transforms-3/89c1326c6b42ba1f372c4655c7bd4944/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/iggy/.gradle/caches/transforms-3/89c1326c6b42ba1f372c4655c7bd4944/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/iggy/.gradle/caches/transforms-3/98992aeabd6c14de964482a5f79a21b5/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/iggy/.gradle/caches/transforms-3/98992aeabd6c14de964482a5f79a21b5/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iggy/.gradle/caches/transforms-3/93b3a36a549f52049200c29f5fd81e87/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iggy/.gradle/caches/transforms-3/93b3a36a549f52049200c29f5fd81e87/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iggy/.gradle/caches/transforms-3/d1c756003d9c554345eb991d19cea0ab/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iggy/.gradle/caches/transforms-3/d1c756003d9c554345eb991d19cea0ab/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/iggy/.gradle/caches/transforms-3/b1f2950aac55c0da1d639cd60e8afa30/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/iggy/.gradle/caches/transforms-3/b1f2950aac55c0da1d639cd60e8afa30/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/iggy/.gradle/caches/transforms-3/3d26ea210452c49711f6a24a7ba431ae/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/iggy/.gradle/caches/transforms-3/3d26ea210452c49711f6a24a7ba431ae/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iggy/.gradle/caches/transforms-3/bfeb3c2159feafbbf5895ff0318c80e1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iggy/.gradle/caches/transforms-3/bfeb3c2159feafbbf5895ff0318c80e1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iggy/.gradle/caches/transforms-3/a74b583bd50d24c0b7e71dd418820f1a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iggy/.gradle/caches/transforms-3/a74b583bd50d24c0b7e71dd418820f1a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iggy/.gradle/caches/transforms-3/3fb5e9c91f17e356a7e9036ca82be727/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iggy/.gradle/caches/transforms-3/3fb5e9c91f17e356a7e9036ca82be727/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iggy/.gradle/caches/transforms-3/74b1342c816d109b13faa1a17ffbadd2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iggy/.gradle/caches/transforms-3/74b1342c816d109b13faa1a17ffbadd2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iggy/.gradle/caches/transforms-3/61c30ef7b7b56e2d962bfa67d121d22f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iggy/.gradle/caches/transforms-3/61c30ef7b7b56e2d962bfa67d121d22f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iggy/.gradle/caches/transforms-3/622d2b2c011ecb1a943707b2acc82189/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iggy/.gradle/caches/transforms-3/622d2b2c011ecb1a943707b2acc82189/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/iggy/.gradle/caches/transforms-3/0d7145b7056a46f57726674d53a076ba/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/iggy/.gradle/caches/transforms-3/0d7145b7056a46f57726674d53a076ba/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /home/iggy/.gradle/caches/transforms-3/72077aae75911d5ad9f6e93cbbe31b36/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/iggy/.gradle/caches/transforms-3/72077aae75911d5ad9f6e93cbbe31b36/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iggy/.gradle/caches/transforms-3/8188636c73cbe3dd663de27f947a19c2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iggy/.gradle/caches/transforms-3/8188636c73cbe3dd663de27f947a19c2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/iggy/.gradle/caches/transforms-3/0d7acd9831ed10a9c5d79096fc912c2e/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/iggy/.gradle/caches/transforms-3/0d7acd9831ed10a9c5d79096fc912c2e/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iggy/.gradle/caches/transforms-3/2d22a682021d527252deae84ca6e94a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iggy/.gradle/caches/transforms-3/2d22a682021d527252deae84ca6e94a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/iggy/.gradle/caches/transforms-3/a57f868ea5d314524462f44fb9ae8ad7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/iggy/.gradle/caches/transforms-3/a57f868ea5d314524462f44fb9ae8ad7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/iggy/.gradle/caches/transforms-3/52d2f82b12a9f7d76135460d49dfb9b0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/iggy/.gradle/caches/transforms-3/52d2f82b12a9f7d76135460d49dfb9b0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/iggy/.gradle/caches/transforms-3/0b4266c8852cbfc2b6320958e08983b7/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/iggy/.gradle/caches/transforms-3/0b4266c8852cbfc2b6320958e08983b7/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/iggy/.gradle/caches/transforms-3/7102ba1dd1cca755a9dba9e1ad1016e6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/iggy/.gradle/caches/transforms-3/7102ba1dd1cca755a9dba9e1ad1016e6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iggy/.gradle/caches/transforms-3/e88f4686476d0aa8b174ec483bc1d4ae/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iggy/.gradle/caches/transforms-3/e88f4686476d0aa8b174ec483bc1d4ae/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iggy/.gradle/caches/transforms-3/8d55c4452c9438f53c609b2425a0e595/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iggy/.gradle/caches/transforms-3/8d55c4452c9438f53c609b2425a0e595/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iggy/.gradle/caches/transforms-3/a74cfc1a5f299df9476381af85d9d698/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iggy/.gradle/caches/transforms-3/a74cfc1a5f299df9476381af85d9d698/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iggy/.gradle/caches/transforms-3/119be4f1714b3cf4e131b7fde334bf81/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iggy/.gradle/caches/transforms-3/119be4f1714b3cf4e131b7fde334bf81/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iggy/.gradle/caches/transforms-3/01c87f905a8c778d5467e0bb49c5654f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iggy/.gradle/caches/transforms-3/01c87f905a8c778d5467e0bb49c5654f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iggy/.gradle/caches/transforms-3/dca5a3b90f7e3237ba168dbcfdf15bfa/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iggy/.gradle/caches/transforms-3/dca5a3b90f7e3237ba168dbcfdf15bfa/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iggy/.gradle/caches/transforms-3/4ab93aaf8764da593225c2ed11ffebba/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iggy/.gradle/caches/transforms-3/4ab93aaf8764da593225c2ed11ffebba/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iggy/.gradle/caches/transforms-3/296268894ff5068fe4c70d7cd5b312d2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iggy/.gradle/caches/transforms-3/296268894ff5068fe4c70d7cd5b312d2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iggy/.gradle/caches/transforms-3/06869fb9abfab749f2472c0b1e6d18eb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iggy/.gradle/caches/transforms-3/06869fb9abfab749f2472c0b1e6d18eb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/iggy/.gradle/caches/transforms-3/9af1f54e1267ba8149e4a10085f1e4fe/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/iggy/.gradle/caches/transforms-3/9af1f54e1267ba8149e4a10085f1e4fe/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iggy/.gradle/caches/transforms-3/5a710c85cc355a837190efa17b7d1fc1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iggy/.gradle/caches/transforms-3/5a710c85cc355a837190efa17b7d1fc1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /home/iggy/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
