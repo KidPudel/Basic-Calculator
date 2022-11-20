@@ -56,6 +56,7 @@ class CalculatorViewModel : ViewModel() {
         // if operation havent been there yet -> therefore its a first value
         // now secondValue can be set to first value at first operation
         // we need to set our tracking operation to default at first
+        // click "+" tacked is "=" therefore just assign and keep "+" -> at "=" then it's "+" add -> then next operation, tracked is "=" again
         when (trackedOperation) {
             "+" -> firstValue += secondValue
             "-" -> firstValue -= secondValue
